@@ -16,9 +16,7 @@ export default function Home() {
         preTitle="Maestro Benefits"
         title=" Why should you use our services"
       >
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. A deserunt quibusdam praesentium reiciendis ipsam explicabo molestias omnis, quod quisquam nam cumque voluptates vel deleniti, placeat earum vitae quos error debitis.
       </SectionTitle>
 
       <Benefits data={benefitOne} />

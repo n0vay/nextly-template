@@ -36,7 +36,7 @@ export const Faq = () => {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
+    question: "What kind of services you provide?",
     answer: "Yes, this template is completely free to use.",
   },
   {
